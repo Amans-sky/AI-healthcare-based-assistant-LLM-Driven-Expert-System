@@ -1,8 +1,4 @@
-Here’s a **clean, professional version of your README.md** (no emojis, no unnecessary fluff):
-
----
-
-# Healthcare AI Assistant (LLaMA)
+#     AI-healthcare-based-assistant-LLM-Driven-Expert-System (LLaMA)
 
 This repository contains an AI-powered healthcare assistant built using LLaMA for **medical Q\&A**, **triage-style guidance**, and **structured responses**.
 The project includes a Jupyter notebook (`app.ipynb`), setup instructions, and references for downloading model weights (not included in this repository).
